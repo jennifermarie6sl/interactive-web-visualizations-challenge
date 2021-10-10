@@ -1,5 +1,5 @@
 # Interactive Web Visualizations Challenge
-For this project we created an interactive dashboard on a website that plotted several points of dataset. Page linked here: 
+For this project we created an interactive dashboard on a website that plotted several points of dataset. Page (including bonus) linked here: https://jennifermarie6sl.github.io/interactive-web-visualizations-challenge/
 
 In building this dashboard, we've created individual plots that all get updated utilizing a drop down menu.  
 
